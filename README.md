@@ -96,8 +96,7 @@ jQuery provides us with immense convenience methods that make our jobs as
 developers much easier, especially when dealing with AJAX and API calls. We can
 write significantly fewer lines of code and still achieve the same effect.
 jQuery is also an open source library and has a tremendous community around it.
-At the time of this writing, over [78% of the top million sites on the web use jQuery](http://trends.builtwith.com/javascript/jQuery) -
-crazy! There are many many jQuery plugins that provide additional functionality
+At the time of this writing, over [78% of the top million sites on the web use jQuery](http://trends.builtwith.com/javascript/jQuery) -crazy! There are many many jQuery plugins that provide additional functionality
 and that allow us to build complex applications very quickly.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-libraries-readme' title='JS Libraries'>JS Libraries</a> on Learn.co and start learning to code for free.</p>
