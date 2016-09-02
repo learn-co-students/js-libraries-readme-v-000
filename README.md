@@ -71,3 +71,5 @@ jQuery provides us with immense convenience methods that make our jobs as develo
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-libraries-readme' title='JS Libraries'>JS Libraries</a> on Learn.co and start learning to code for free.</p>
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-libraries-readme'>JS Libraries</a> on Learn.co and start learning to code for free.</p>
+
+###
