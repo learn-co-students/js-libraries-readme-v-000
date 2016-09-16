@@ -29,7 +29,7 @@ We'll be working with the following HTML (which is also in `html/index.html` for
   <title> JavaScript Madness</title>
 </head>
 <body>
-  <p id="hey">HEY HEY HEY HEY HEY</p>
+  <p id="hey">HEY HEY HEY HEY HEY!</p>
 </body>
 ```
 
